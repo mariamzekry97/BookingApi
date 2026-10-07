@@ -72,3 +72,4 @@ D:\Vibe Coding 2026\Projects\BookingAPI\obj\Debug\net10.0\refint\BookingAPI.dll
 D:\Vibe Coding 2026\Projects\BookingAPI\obj\Debug\net10.0\BookingAPI.pdb
 D:\Vibe Coding 2026\Projects\BookingAPI\obj\Debug\net10.0\BookingAPI.genruntimeconfig.cache
 D:\Vibe Coding 2026\Projects\BookingAPI\obj\Debug\net10.0\ref\BookingAPI.dll
+D:\Vibe Coding 2026\Projects\BookingAPI\obj\Debug\net10.0\BookingAPI.sourcelink.json
